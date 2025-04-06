@@ -1,6 +1,6 @@
 # __Mark Down Language__
 
-## Syntax for headings:
+## 1. Syntax for headings:
 
 # Heading 1(Highest size)
 ## Heading 2
@@ -12,7 +12,7 @@
 ### Three or more hyphens (---) gives an horizontal rule
 ---
 
-## Text Styling:
+## 2. Text Styling:
 
 - Single asterick(*) used for Italic text.
 
@@ -42,7 +42,7 @@
       console.log(Example);
   ```
 
-## Bullet points or Ordering:
+## 3. Bullet points or Ordering:
 
 - Hyphen(-) is used for dots - bullet points.
 - Text here in bullet points.
@@ -50,13 +50,13 @@
 1. Numbers with period represent Numbered bullet pionts.
 2. Text here in numbering order.
 
-## links in Mark Down Language:
+## 4. links in Mark Down Language:
 
 - Unlike Html its syntax is: [alternate or title text](source link)
 
   Example - [Click to open Google](https://google.com)
 
-## Tables and Checkboxes:
+## 5. Tables and Checkboxes:
 
 - Pipes(|) and Hyphens(-) are used to create tables.
 
