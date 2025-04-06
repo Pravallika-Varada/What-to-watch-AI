@@ -9,9 +9,6 @@
 ##### Heading 5
 ###### Heading 6(Least size)
 
-### Three or more hyphens (---) gives an horizontal rule
----
-
 ## 2. Text Styling:
 
 - Single asterick(*) used for Italic text.
@@ -75,3 +72,6 @@
   - [ ] Not Done
   
   - [x] Done
+
+### 6. Three or more hyphens (---) gives an horizontal rule
+---
